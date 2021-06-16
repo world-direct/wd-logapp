@@ -1,0 +1,5 @@
+bin/
+obj/
+makefile
+.gitignore
+dockerignore
